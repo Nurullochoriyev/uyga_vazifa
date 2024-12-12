@@ -4,3 +4,5 @@ class CARD:
     pass
 class BAZA:
     pass
+class PERSIN:
+    pass
